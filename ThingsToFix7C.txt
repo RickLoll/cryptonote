@@ -1,0 +1,6 @@
+The following are issues that need improvement:
+1. The Wallet syncronization/initialization is to slow when it comes to over 100,000 blockchains. 
+  Solution: Make an Electrum(Bitcoin) wallet equivalent.
+2. System lockup when more all cores are mining.
+  Solution: Lower priority of mining subr. to idol.
+3. ?
