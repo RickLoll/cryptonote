@@ -5,4 +5,5 @@ The following are issues that need improvement:
   Solution: Lower priority of mining subr. to idol.
 3. Add a method of periodic payments to each registered citizen like Social Security.
 4. Spontaineous addition of new coins as needed.
-5. ?
+5. Protect from copy and Paste malware.
+6. ?
